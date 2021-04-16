@@ -78,7 +78,7 @@ sections:
   - type: features_section
     features:
       - title: Innovative Merchandize
-        subtitle: For true work-life balance
+        subtitle: For true fan-team engagement
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
           on all your appointments and meetings appear in one place.
