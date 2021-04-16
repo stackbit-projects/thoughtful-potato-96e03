@@ -89,10 +89,9 @@ sections:
         media_width: fifty
       - title: Digital Wallet
         subtitle: Always be in control
-        content: >-
-          We all have stuff to do all the time: Work tasks, calls to make,
-          groceries to buy and dry cleaning to pick up. Get all your tasks in
-          one place for easy management.
+        content: >
+          Discover how you can make your digital assets like your rewards points
+          start working for you!
         actions:
           - label: Take a look
             url: /pricing
