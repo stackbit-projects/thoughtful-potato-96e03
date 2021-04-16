@@ -45,9 +45,8 @@ sections:
         image_position: top
       - title: Promotions Management
         title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
+        content: |
+          Manage your promotions and rewards portfolio in one place!
         content_align: left
         actions: []
         actions_align: left
