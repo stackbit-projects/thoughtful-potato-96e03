@@ -79,9 +79,9 @@ sections:
     features:
       - title: Innovative Merchandize
         subtitle: For true fan-team engagement
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
+        content: >
+          Rather use your loyalty points to buy sports tickets or a cup of
+          coffee? PointsVille lets you do that!
         actions:
           - label: Learn More
             url: /pricing
