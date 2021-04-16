@@ -116,7 +116,7 @@ sections:
       - label: Individuals
         url: /pricing
         style: primary
-      - label: Google Play
+      - label: Institutions
         url: /pricing
         style: secondary
         has_icon: false
