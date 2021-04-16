@@ -11,7 +11,7 @@ sections:
 
 
     actions:
-      - label: App Store
+      - label: Individuals
         url: /pricing
         style: primary
       - label: Google Play
