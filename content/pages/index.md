@@ -77,7 +77,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: Syncronized Calendar
+      - title: Innovative Merchandize
         subtitle: For true work-life balance
         content: >-
           Stop juggling between calendar apps and productivity tools — from now
