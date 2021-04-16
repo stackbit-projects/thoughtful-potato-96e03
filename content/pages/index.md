@@ -92,13 +92,7 @@ sections:
         content: >
           Discover how you can make your digital assets like your rewards points
           start working for you!
-        actions:
-          - label: Take a look
-            url: /pricing
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/feature-2.svg
         image_alt: Feature 2 placeholder image
         media_position: right
