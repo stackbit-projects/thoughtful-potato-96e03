@@ -57,9 +57,9 @@ sections:
         image_position: top
       - title: Digital Wallet
         title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
+        content: >
+          Discover how you can make your digital assets like your rewards points
+          start working for you!
         content_align: left
         actions: []
         actions_align: left
