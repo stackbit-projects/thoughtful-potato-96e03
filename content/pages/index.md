@@ -106,9 +106,12 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Regain Control of your Points
-    content: >-
-      Download App Land now and connect with all your calendars, project
-      management tools and task lists — it doesn't get easier than this!
+    content: >+
+      Stop waiting. Start Building your points. Please contact us for any
+      questions!
+
+
+
     actions:
       - label: App Store
         url: /pricing
