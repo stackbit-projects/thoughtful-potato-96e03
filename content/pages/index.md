@@ -32,9 +32,9 @@ sections:
     grid_items:
       - title: Gamified Rewards
         title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
+        content: >
+          Augmented reality rewards drive fan engagement and sales from a
+          younger audience!
         content_align: left
         actions:
           - label: Learn More
