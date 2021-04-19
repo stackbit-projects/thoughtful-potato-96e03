@@ -88,7 +88,6 @@ export default class FormSection extends React.Component {
                 						)}
                 						<div className={classNames('form-submit', {'mt-3': form_is_inline === false, 'mx-auto': form_is_inline === true, 'mr-xs-0': form_is_inline === true, 'ml-xs-1': form_is_inline === true})}>
                 							<form name="simpleContactForm" method="POST" data-netlify="true" id="simple-contact-form" class="contact-form">
-    ...
     <p class="form-row">
         <label id="contact-form-name-label" for="contact-form-name" class="form-label">Name</label>
         <input type="text" name="name" id="contact-form-name" aria-labelledby="contact-form-name-label" class="form-input" />
