@@ -6,7 +6,6 @@ import FormField from './FormField';
 
 export default class FormSection extends React.Component {
 
-    document.querySelector("form").addEventListener("submit", handleSubmit);
 
  handleSubmit = (e) => {
   e.preventDefault()
