@@ -121,8 +121,8 @@ export default class FormSection extends React.Component {
   <p>
     <button type="submit">Send</button>
   </p>
-  testing...............
-  
+<p>  testing...............
+
 </form>
 
                 						</div>
