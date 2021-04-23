@@ -106,9 +106,6 @@ export default class FormSection extends React.Component {
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
-   <p>
-    <label>Your Name: <input type="text" name="name" /></label>   
-  </p>
   <p>
     <label>Your Email: <input type="email" name="email" /></label>
   </p>
