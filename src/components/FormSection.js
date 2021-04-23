@@ -102,7 +102,7 @@ export default class FormSection extends React.Component {
                 							))
                 						)}
                 						<div className={classNames('form-submit', {'mt-3': form_is_inline === false, 'mx-auto': form_is_inline === true, 'mr-xs-0': form_is_inline === true, 'ml-xs-1': form_is_inline === true})}>
-                							<form name="contact" onSubmit={this.} method="POST" data-netlify="true">
+                							<form name="contact" onSubmit={this.handleSubmit} method="POST" data-netlify="true">
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
