@@ -8,7 +8,7 @@ export default class FormSection extends React.Component {
 
 
  handleSubmit = (e) => {
-    document.querySelector("form").addEventListener("submit", handleSubmit);
+    // document.querySelector("form").addEventListener("submit", handleSubmit);
 
   e.preventDefault()
   let myForm = document.getElementById('pizzaOrder');
